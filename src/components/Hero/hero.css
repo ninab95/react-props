@@ -1,0 +1,16 @@
+.heroContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 30px 30px 30px;
+}
+
+.heroContainer .wrapper h1 {
+  color: #3e4b5b;
+  font-size: 45px;
+  margin-bottom: 35px;
+}
+
+.heroContainer img {
+  width: 500px;
+}

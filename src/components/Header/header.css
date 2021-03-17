@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 5px 30px 30px 30px;
+}
+
+.header img {
+  width: 100px;
+}
+
+.header ul {
+  list-style: none;
+  display: flex;
+  padding: unset;
+}
+
+.header ul li {
+  padding: 5px;
+  color: #3e4b5b;
+}
